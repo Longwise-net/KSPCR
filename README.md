@@ -29,7 +29,7 @@ Each instruction in a TXT file is **separated by a backslash** (`\`).
 
 ### Example:
 ```
-1 5 \ 3 10 \ 4 20 \ 5 \ 9
+11/\3/-79\4/44\5/1
 ```
 
 ## 📚 Sample Projects
